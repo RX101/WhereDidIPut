@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "632396306094",
+    "firebase_url": "https://wheredidiput-b9ffb.firebaseio.com",
+    "project_id": "wheredidiput-b9ffb",
+    "storage_bucket": "wheredidiput-b9ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632396306094:android:0f8ba8417f89f2e9",
+        "android_client_info": {
+          "package_name": "com.example.angruixian.wheredidiput"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632396306094-8hbcrqafdm8dunpipev7bitifne6aqjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEBD9zePdVO_gG_D8bX7s1xi75CY-K964"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
